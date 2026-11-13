@@ -1,0 +1,44 @@
+{
+  "position": [
+    -4.675312683497332,
+    -4.561952475701119,
+    8.310836200847351
+  ],
+  "target": [
+    -0.22761553878172158,
+    -0.02259784840317458,
+    0.0
+  ],
+  "fov": 60,
+  "heightCut": 1.6,
+  "pointSize": 1.5,
+  "markerSize": 0.14,
+  "display_cloud": {
+    "file": "gt/clouds/office_display.qrgb.gz",
+    "encoding": "quantized_u16_xyz_then_u8_rgb_gzip",
+    "count": 1057270,
+    "offset": [
+      -8.497,
+      -7.086,
+      -1.563
+    ],
+    "step": 0.001,
+    "bounds": [
+      [
+        -8.497,
+        -7.086,
+        -1.563
+      ],
+      [
+        5.725,
+        8.26,
+        3.106
+      ]
+    ],
+    "color_encoding": "srgb_uint8",
+    "source_points": 4605670,
+    "voxel_size_m": 0.02,
+    "compressed_bytes": 6506251,
+    "sha256": "e0294411d98e8f5c8b651c2cff429de4ec45fbb8b149c6d3b2676d10fe9527d1"
+  }
+}

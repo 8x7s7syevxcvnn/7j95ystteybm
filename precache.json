@@ -1,0 +1,934 @@
+{
+  "version": "4920a69d09ecc5f7",
+  "total_bytes": 82435848,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0
+    },
+    {
+      "path": "assets/bootstrap.js",
+      "bytes": 3120
+    },
+    {
+      "path": "assets/cloud_download_queue.js",
+      "bytes": 8070
+    },
+    {
+      "path": "assets/cloud_loader.js",
+      "bytes": 3992
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 235
+    },
+    {
+      "path": "assets/gt_cloud_worker.js",
+      "bytes": 3131
+    },
+    {
+      "path": "assets/hero_scan.js",
+      "bytes": 11034
+    },
+    {
+      "path": "assets/onepage.css",
+      "bytes": 6403
+    },
+    {
+      "path": "assets/onepage.js",
+      "bytes": 960
+    },
+    {
+      "path": "assets/readable.css",
+      "bytes": 12284
+    },
+    {
+      "path": "assets/viewer-large.css",
+      "bytes": 6582
+    },
+    {
+      "path": "assets/viewer.css",
+      "bytes": 10413
+    },
+    {
+      "path": "assets/viewer.js",
+      "bytes": 34751
+    },
+    {
+      "path": "clouds/D1_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D1_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D1_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D1_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D1_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D1_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D1_Reference.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D1_Reference.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D1_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D1_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D1_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D1_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D2_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D2_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D2_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D2_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D2_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D2_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D2_Reference.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D2_Reference.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D2_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D2_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D2_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D2_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D3_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D3_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D3_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D3_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D3_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D3_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D3_Reference.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D3_Reference.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D3_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D3_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D3_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D3_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D4_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D4_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D4_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D4_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D4_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D4_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D4_Reference.bin",
+      "bytes": 411648
+    },
+    {
+      "path": "clouds/D4_Reference.rgb",
+      "bytes": 102912
+    },
+    {
+      "path": "clouds/D4_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D4_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D4_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D4_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D5_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D5_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D5_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D5_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D5_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D5_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D5_Reference.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D5_Reference.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D5_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D5_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/D5_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/D5_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M1_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M1_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M1_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M1_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M1_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M1_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M1_Reference.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M1_Reference.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M1_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M1_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M1_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M1_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M2_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M2_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M2_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M2_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M2_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M2_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M2_Reference.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M2_Reference.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M2_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M2_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M2_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M2_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M3_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M3_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M3_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M3_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M3_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M3_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M3_Reference.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M3_Reference.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M3_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M3_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M3_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M3_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M4_MEOW_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M4_MEOW_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M4_MapAnything_Apache_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M4_MapAnything_Apache_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M4_MapAnything_NC_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M4_MapAnything_NC_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M4_Reference.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M4_Reference.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M4_VGGT_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M4_VGGT_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/M4_Wid3R_sim3.bin",
+      "bytes": 600000
+    },
+    {
+      "path": "clouds/M4_Wid3R_sim3.rgb",
+      "bytes": 150000
+    },
+    {
+      "path": "clouds/RA01_MEOW_sim3.bin",
+      "bytes": 248376
+    },
+    {
+      "path": "clouds/RA01_MEOW_sim3.rgb",
+      "bytes": 62094
+    },
+    {
+      "path": "clouds/RA01_MapAnything_NC_sim3.bin",
+      "bytes": 221136
+    },
+    {
+      "path": "clouds/RA01_MapAnything_NC_sim3.rgb",
+      "bytes": 55284
+    },
+    {
+      "path": "clouds/RA01_Reference.bin",
+      "bytes": 248376
+    },
+    {
+      "path": "clouds/RA01_Reference.rgb",
+      "bytes": 62094
+    },
+    {
+      "path": "clouds/RA01_Wid3R_sim3.bin",
+      "bytes": 248376
+    },
+    {
+      "path": "clouds/RA01_Wid3R_sim3.rgb",
+      "bytes": 62094
+    },
+    {
+      "path": "clouds/RB01_MEOW_sim3.bin",
+      "bytes": 245592
+    },
+    {
+      "path": "clouds/RB01_MEOW_sim3.rgb",
+      "bytes": 61398
+    },
+    {
+      "path": "clouds/RB01_MapAnything_NC_sim3.bin",
+      "bytes": 218772
+    },
+    {
+      "path": "clouds/RB01_MapAnything_NC_sim3.rgb",
+      "bytes": 54693
+    },
+    {
+      "path": "clouds/RB01_Reference.bin",
+      "bytes": 245592
+    },
+    {
+      "path": "clouds/RB01_Reference.rgb",
+      "bytes": 61398
+    },
+    {
+      "path": "clouds/RB01_Wid3R_sim3.bin",
+      "bytes": 245592
+    },
+    {
+      "path": "clouds/RB01_Wid3R_sim3.rgb",
+      "bytes": 61398
+    },
+    {
+      "path": "clouds/RC01_MEOW_sim3.bin",
+      "bytes": 247236
+    },
+    {
+      "path": "clouds/RC01_MEOW_sim3.rgb",
+      "bytes": 61809
+    },
+    {
+      "path": "clouds/RC01_MapAnything_NC_sim3.bin",
+      "bytes": 219360
+    },
+    {
+      "path": "clouds/RC01_MapAnything_NC_sim3.rgb",
+      "bytes": 54840
+    },
+    {
+      "path": "clouds/RC01_Reference.bin",
+      "bytes": 247236
+    },
+    {
+      "path": "clouds/RC01_Reference.rgb",
+      "bytes": 61809
+    },
+    {
+      "path": "clouds/RC01_Wid3R_sim3.bin",
+      "bytes": 247236
+    },
+    {
+      "path": "clouds/RC01_Wid3R_sim3.rgb",
+      "bytes": 61809
+    },
+    {
+      "path": "clouds/RD01_MEOW_sim3.bin",
+      "bytes": 247620
+    },
+    {
+      "path": "clouds/RD01_MEOW_sim3.rgb",
+      "bytes": 61905
+    },
+    {
+      "path": "clouds/RD01_MapAnything_NC_sim3.bin",
+      "bytes": 219756
+    },
+    {
+      "path": "clouds/RD01_MapAnything_NC_sim3.rgb",
+      "bytes": 54939
+    },
+    {
+      "path": "clouds/RD01_Reference.bin",
+      "bytes": 247620
+    },
+    {
+      "path": "clouds/RD01_Reference.rgb",
+      "bytes": 61905
+    },
+    {
+      "path": "clouds/RD01_Wid3R_sim3.bin",
+      "bytes": 247620
+    },
+    {
+      "path": "clouds/RD01_Wid3R_sim3.rgb",
+      "bytes": 61905
+    },
+    {
+      "path": "data/catalog.json",
+      "bytes": 1351
+    },
+    {
+      "path": "data/full_room_scans.json",
+      "bytes": 3710
+    },
+    {
+      "path": "data/groups/D1.json",
+      "bytes": 32368
+    },
+    {
+      "path": "data/groups/D2.json",
+      "bytes": 32204
+    },
+    {
+      "path": "data/groups/D3.json",
+      "bytes": 32233
+    },
+    {
+      "path": "data/groups/D4.json",
+      "bytes": 26782
+    },
+    {
+      "path": "data/groups/D5.json",
+      "bytes": 26636
+    },
+    {
+      "path": "data/groups/M1.json",
+      "bytes": 26727
+    },
+    {
+      "path": "data/groups/M2.json",
+      "bytes": 32265
+    },
+    {
+      "path": "data/groups/M3.json",
+      "bytes": 43883
+    },
+    {
+      "path": "data/groups/M4.json",
+      "bytes": 49823
+    },
+    {
+      "path": "data/groups/RA01.json",
+      "bytes": 19038
+    },
+    {
+      "path": "data/groups/RB01.json",
+      "bytes": 19444
+    },
+    {
+      "path": "data/groups/RC01.json",
+      "bytes": 19316
+    },
+    {
+      "path": "data/groups/RD01.json",
+      "bytes": 19235
+    },
+    {
+      "path": "data/home_view.json",
+      "bytes": 833
+    },
+    {
+      "path": "figures/add_qual_real_M2.png",
+      "bytes": 1254085
+    },
+    {
+      "path": "figures/add_qual_real_M4.png",
+      "bytes": 1292068
+    },
+    {
+      "path": "figures/add_qual_rooms_AB.png",
+      "bytes": 1537055
+    },
+    {
+      "path": "figures/add_qual_rooms_CD.png",
+      "bytes": 1180291
+    },
+    {
+      "path": "gt/clouds/office_display.qrgb.gz",
+      "bytes": 6506251
+    },
+    {
+      "path": "gt/clouds/room_A_full.qrgb.gz",
+      "bytes": 1712470
+    },
+    {
+      "path": "gt/clouds/room_B_full.qrgb.gz",
+      "bytes": 1692604
+    },
+    {
+      "path": "gt/clouds/room_C_full.qrgb.gz",
+      "bytes": 1365027
+    },
+    {
+      "path": "gt/clouds/room_D_full.qrgb.gz",
+      "bytes": 820006
+    },
+    {
+      "path": "gt/manifest.json",
+      "bytes": 19781
+    },
+    {
+      "path": "index.html",
+      "bytes": 13038
+    },
+    {
+      "path": "photos/I01.jpg",
+      "bytes": 339936
+    },
+    {
+      "path": "photos/I02.jpg",
+      "bytes": 341547
+    },
+    {
+      "path": "photos/I03.jpg",
+      "bytes": 390232
+    },
+    {
+      "path": "photos/I04.jpg",
+      "bytes": 276140
+    },
+    {
+      "path": "photos/I05.jpg",
+      "bytes": 241111
+    },
+    {
+      "path": "photos/I06.jpg",
+      "bytes": 545017
+    },
+    {
+      "path": "photos/I07.jpg",
+      "bytes": 437962
+    },
+    {
+      "path": "photos/I08.jpg",
+      "bytes": 468586
+    },
+    {
+      "path": "photos/I09.jpg",
+      "bytes": 524274
+    },
+    {
+      "path": "photos/I10.jpg",
+      "bytes": 661431
+    },
+    {
+      "path": "photos/I11.jpg",
+      "bytes": 465638
+    },
+    {
+      "path": "photos/I12.jpg",
+      "bytes": 483336
+    },
+    {
+      "path": "photos/I13.jpg",
+      "bytes": 425905
+    },
+    {
+      "path": "photos/I14.jpg",
+      "bytes": 425993
+    },
+    {
+      "path": "photos/I15.jpg",
+      "bytes": 586229
+    },
+    {
+      "path": "photos/I16.jpg",
+      "bytes": 184393
+    },
+    {
+      "path": "photos/I17.jpg",
+      "bytes": 246846
+    },
+    {
+      "path": "photos/I18.jpg",
+      "bytes": 219736
+    },
+    {
+      "path": "photos/I19.jpg",
+      "bytes": 198916
+    },
+    {
+      "path": "photos/I20.jpg",
+      "bytes": 285422
+    },
+    {
+      "path": "photos/I21.jpg",
+      "bytes": 194380
+    },
+    {
+      "path": "photos/I22.jpg",
+      "bytes": 496887
+    },
+    {
+      "path": "photos/I23.jpg",
+      "bytes": 438871
+    },
+    {
+      "path": "photos/I24.jpg",
+      "bytes": 345095
+    },
+    {
+      "path": "photos/I25.jpg",
+      "bytes": 340997
+    },
+    {
+      "path": "photos/I26.jpg",
+      "bytes": 489698
+    },
+    {
+      "path": "photos/I27.jpg",
+      "bytes": 563327
+    },
+    {
+      "path": "photos/I28.jpg",
+      "bytes": 436270
+    },
+    {
+      "path": "photos/I29.jpg",
+      "bytes": 365975
+    },
+    {
+      "path": "photos/I30.jpg",
+      "bytes": 610380
+    },
+    {
+      "path": "photos/I31.jpg",
+      "bytes": 678115
+    },
+    {
+      "path": "photos/I32.jpg",
+      "bytes": 751484
+    },
+    {
+      "path": "photos/RA01I1.png",
+      "bytes": 358932
+    },
+    {
+      "path": "photos/RA01I2.png",
+      "bytes": 334705
+    },
+    {
+      "path": "photos/RA01I3.png",
+      "bytes": 211666
+    },
+    {
+      "path": "photos/RA01I4.png",
+      "bytes": 194813
+    },
+    {
+      "path": "photos/RB01I1.png",
+      "bytes": 428085
+    },
+    {
+      "path": "photos/RB01I2.png",
+      "bytes": 318833
+    },
+    {
+      "path": "photos/RB01I3.png",
+      "bytes": 311582
+    },
+    {
+      "path": "photos/RB01I4.png",
+      "bytes": 307899
+    },
+    {
+      "path": "photos/RC01I1.png",
+      "bytes": 415757
+    },
+    {
+      "path": "photos/RC01I2.png",
+      "bytes": 444228
+    },
+    {
+      "path": "photos/RC01I3.png",
+      "bytes": 334219
+    },
+    {
+      "path": "photos/RC01I4.jpg",
+      "bytes": 58753
+    },
+    {
+      "path": "photos/RD01I1.png",
+      "bytes": 585415
+    },
+    {
+      "path": "photos/RD01I2.png",
+      "bytes": 571466
+    },
+    {
+      "path": "photos/RD01I3.jpg",
+      "bytes": 74564
+    },
+    {
+      "path": "photos/RD01I4.png",
+      "bytes": 348968
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 26
+    },
+    {
+      "path": "vendor/OrbitControls.js",
+      "bytes": 32150
+    },
+    {
+      "path": "vendor/THREE_LICENSE.txt",
+      "bytes": 1081
+    },
+    {
+      "path": "vendor/three.module.min.js",
+      "bytes": 691648
+    }
+  ]
+}

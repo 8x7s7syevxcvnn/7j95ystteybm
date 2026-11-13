@@ -1,0 +1,84 @@
+{
+  "real": [
+    {
+      "id": "M1",
+      "label": "M1",
+      "k": 4,
+      "category": "Mixed cameras"
+    },
+    {
+      "id": "M2",
+      "label": "M2",
+      "k": 5,
+      "category": "Mixed cameras"
+    },
+    {
+      "id": "M3",
+      "label": "M3",
+      "k": 7,
+      "category": "Mixed cameras"
+    },
+    {
+      "id": "M4",
+      "label": "M4",
+      "k": 8,
+      "category": "Mixed cameras"
+    },
+    {
+      "id": "D1",
+      "label": "D1",
+      "k": 5,
+      "category": "Same-camera controls"
+    },
+    {
+      "id": "D2",
+      "label": "D2",
+      "k": 5,
+      "category": "Same-camera controls"
+    },
+    {
+      "id": "D3",
+      "label": "D3",
+      "k": 5,
+      "category": "Same-camera controls"
+    },
+    {
+      "id": "D4",
+      "label": "D4",
+      "k": 4,
+      "category": "Same-camera controls"
+    },
+    {
+      "id": "D5",
+      "label": "D5",
+      "k": 4,
+      "category": "Same-camera controls"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "RA01",
+      "label": "Room A",
+      "room": "Room A",
+      "k": 4
+    },
+    {
+      "id": "RB01",
+      "label": "Room B",
+      "room": "Room B",
+      "k": 4
+    },
+    {
+      "id": "RC01",
+      "label": "Room C",
+      "room": "Room C",
+      "k": 4
+    },
+    {
+      "id": "RD01",
+      "label": "Room D",
+      "room": "Room D",
+      "k": 4
+    }
+  ]
+}
